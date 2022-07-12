@@ -14,7 +14,7 @@
   <div style="display: inline-block">
  
   <br>
-  
+    <img align="left" height="250" alt="it's me" src="it's me.png">
   
   </div>
 
