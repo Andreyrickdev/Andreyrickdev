@@ -1,54 +1,48 @@
 <div align="center">
 
-## Hii dev, what's up ? Andreyrick.dev here 👋🤓
+<!--## Hii dev, what's up ? Andreyrick.dev here 👋🤓-->
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8582c&height=180&section=header&text=Andreyrick Andrade Ribeiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-</div>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreyrickdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrickdev&layout=compact&langs_count=16&theme=codeSTACKr"/>
-</div>
-
-<div align="center">
-
-  <img align="left" height="150" alt="it's me" src="It's me.png">
-  <h2>Technologies</h2>
-
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <h2 align="center">Social networks</h2>
-  <a align="center" href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a align="center" href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a align="center" href=""><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-
-</div>
-
-
-
-
-
-
-
-
-
-<!--
-<div align="center">
-<img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8582c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+ANDREYRICK+ANDRADE+RIBEIRO;I'M+19+YEARS+OLD;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</div>-->
+</div>  
+  
+</div>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreyrickdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrickdev&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  
+</div>
+
+<div align="left">
+
+### Main skills:
+<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+
+### Tools:
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><br>
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+
+### Other Knowledge:
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+</div>
 
 <div align="center">
 
