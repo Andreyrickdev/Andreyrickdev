@@ -2,9 +2,9 @@
 
 <!--## Hii dev, what's up ? Andreyrick.dev here 👋🤓-->
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8582c&height=180&section=header&text=Andreyrick Andrade Ribeiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57bdda&height=180&section=header&text=Andreyrick Andrade Ribeiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8582c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+ANDREYRICK+ANDRADE+RIBEIRO;I'M+19+YEARS+OLD;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57bdda&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+ANDREYRICK+ANDRADE+RIBEIRO;I'M+19+YEARS+OLD;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -16,8 +16,8 @@
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreyrickdev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrickdev&layout=compact&langs_count=16&theme=codeSTACKr"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreyrickdev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrickdev&layout=compact&langs_count=16&theme=react"/>
   
 </div>
 
