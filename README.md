@@ -12,14 +12,6 @@
 <a href=""><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>  
   
-</div>
-
-<div align="center">
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Andreyrickdev&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrickdev&layout=compact&langs_count=16&theme=slateorange"/>
-  
-</div>
-
 
 <div align="left">
  
