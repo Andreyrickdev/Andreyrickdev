@@ -16,7 +16,7 @@
 <div align="left">
  
 ### Portfolio:
-  //<a href="https://andreyrickdev.github.io/andreyrickkdev.github.io/">My portfolio 😄😄</a>
+  <!--<a href="https://andreyrickdev.github.io/andreyrickkdev.github.io/">My portfolio 😄😄</a>-->
   
 
 ### Main skills:
