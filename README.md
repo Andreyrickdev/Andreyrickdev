@@ -3,7 +3,7 @@
 <!--## Hii dev, what's up ? Andreyrick.dev here 👋🤓-->
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fba523&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+ANDREYRICK+ANDRADE+RIBEIRO;I'M+20+YEARS+OLD;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fba523&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+ANDREYRICK+ANDRADE+RIBEIRO;I'M+21+YEARS+OLD;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
 <div align="center">
 <a href="https://www.instagram.com/andreyrick.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
